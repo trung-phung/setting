@@ -3,6 +3,7 @@
     <drivers>
       <db-driver id="com.mysql.cj.jdbc.Driver" version="8.0.25" />
       <db-driver id="com.mysql.jdbc.Driver" version="5.1.47" />
+      <db-driver id="com.microsoft.sqlserver.jdbc.SQLServerDriver" version="10.2.0" />
     </drivers>
   </component>
 </application>
