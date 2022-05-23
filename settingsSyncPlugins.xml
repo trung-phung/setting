@@ -21,7 +21,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -38,6 +37,11 @@
           </value>
         </entry>
         <entry key="com.codota.csp.intellij">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.selenium">
           <value>
             <PluginData />
           </value>
